@@ -1,16 +1,12 @@
 {
   "packageDirectories": [
     {
-      "path": "/force-app",
+      "path": "force-app",
       "default": true
     }
-
-    
   ],
-  "name": "Salesforce Development",
+  "name": "Triggers",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
+  "sourceApiVersion": "55.0"
 }
-
-
