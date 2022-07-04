@@ -1,0 +1,2 @@
+What is Triggers in Salesforce?
+A trigger is an Apex script that executes before or after data manipulation language (DML) events occur. Apex triggers enable you to perform custom actions before or after events to record in Salesforce, such as insertions, updates, or deletions. Just like database systems support triggers, Apex provides trigger support for managing records.
