@@ -6,3 +6,17 @@
 
 1.Before Trigger
 2.After Trigger
+
+Trigger context variable
+isExecuting
+isInsert
+isUpdate
+isDelete
+isBefore
+isAfter
+isUndelete
+new
+newMap
+old
+oldMap
+size
