@@ -37,8 +37,4 @@ Trigger.oldMap: A map of IDs to the old versions of the sObject records. This ma
 Trigger.size: The total number of records in a trigger invocation, both old and new.
 </h6>
 
-Trigger Context Variables Considerations
-trigger.new and trigger.old cannot be used in Apex DML operations.
-You can use an object to change its own field values using trigger.new, but only in before triggers. In all after triggers, trigger.new is not saved, so a runtime exception is thrown.
-trigger.old is always read-only.
-You cannot delete trigger.new.
+
